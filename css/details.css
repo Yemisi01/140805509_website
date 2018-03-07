@@ -1,0 +1,119 @@
+
+.home{
+  background: rgb(99, 232, 196);
+  width: 800px;
+  height: 500px;
+  margin: 0 auto;
+
+
+}
+.input_group{
+  padding-left: 20px;
+  font-size: 20px;
+  color: white;
+  padding-top: 20px;
+}
+.input_cont{
+width:400px;
+
+}
+.link {
+
+  padding-top: 100px;
+  padding-left: 50px;
+}
+.link a{
+
+  padding-left: 30px;
+  font-size: 30px;
+}
+.part{
+  background: rgb(210, 131, 38);
+}
+
+.pic img{
+  position: absolute;
+  border-radius: 50px;
+  right: 100px;
+  top:150px;
+  float: right;
+  width:300px;
+  border: 2px solid rgb(146, 217, 224);
+  height: 300px;
+
+
+}
+.abt{
+  font-size: 50px;
+  color: rgb(250, 229, 165);
+  position: absolute;
+  left:400px;
+}
+.meme{
+  color: rgb(244, 242, 245);
+  font-size: 25px;
+  position: absolute;
+  top: 150px;
+}
+.meme1{
+  color: rgb(244, 242, 245);
+  font-size: 25px;
+  position: absolute;
+  top: 180px;
+
+}
+.meme2{
+  color: rgb(244, 242, 245);
+  font-size: 25px;
+  position: absolute;
+  top: 210px;
+
+}
+.meme3{
+  color: rgb(244, 242, 245);
+  font-size: 25px;
+  position: absolute;
+  top: 240px;
+
+}
+.meme4{
+  color: rgb(244, 242, 245);
+  font-size: 25px;
+  position: absolute;
+  top: 270px;
+
+}
+
+.footer{color: rgb(244, 242, 245);
+font-size: 25px;
+position: absolute;
+top: 500px;
+left:500px;
+
+
+}
+.wrapper{
+background-image: url(../img/pexels-photo-38132.jpeg);
+}
+.homes a{
+  color:rgb(228, 78, 57);
+  font-size: 25px;
+  padding-right: 50px;
+
+}
+.greet{
+  font-size: 60px;
+  position: absolute;
+  top:250px;
+  left:400px;
+
+}
+.footer{
+  color: rgb(228, 78, 57);
+}
+.greet2{
+  font-size: 40px;
+  position: absolute;
+  top:320px;
+  left:370px;
+  color: rgb(21, 107, 134);
